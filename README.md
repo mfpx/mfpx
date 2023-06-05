@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm David, a computer scientist with a passion for networking and an interest in all things tech!  
-I'm also an alum on Queen Mary University of London and Aberystwyth University.  
+I'm also an alum of Queen Mary University of London and Aberystwyth University.  
 
 ### Working on 🔭
 In my spare time, I'm working on a lightweight web server written completely in Python, which is meant to be used on low-power nodes (think SoC computers, like Raspberry Pi) for simple pages.  
