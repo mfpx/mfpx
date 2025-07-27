@@ -1,3 +1,14 @@
+## Online Safety Act 2023
+**As of 25 July 2025, the Online Safety Act has come into effect. It "promises" online safety for children and vulnerable groups. This forces platforms to identify its users and makes using the internet anonymously difficult.**
+  
+**Image boards and adult entertainment websites are now legally required to identify its users to ascertain their age either by visual age estimation or by providing Government-issued identification. Some platforms have suspended access to UK users altogether.**
+  
+**The definitions in the law are vague enough to enable censorship under the guise of "safety". Whether its unfavourable political opinions or content the parliament disagrees with, it is censorship.**
+
+**Finally, I would urge anyone to harden their browsers and consider using a VPN provider such as [Mullvad](https://mullvad.net/en) to combat government censorship.**
+
+---
+
 ### Hi there 👋
 I'm David, a computer scientist with a passion for networking and an interest in all things tech!  
 I'm also an alum of Queen Mary University of London and Aberystwyth University.  
