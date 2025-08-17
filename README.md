@@ -5,7 +5,7 @@
   
 **The definitions in the law are vague enough to enable future censorship under the guise of "safety". Whether its unfavourable political opinions or content the parliament disagrees with, it is censorship.**
 
-**Finally, I would urge anyone to harden their browsers and consider using a VPN provider such as [Mullvad](https://mullvad.net/en) to combat government censorship.**
+**Finally, I would urge everyone to harden their browsers and consider using a VPN provider such as [Mullvad](https://mullvad.net/en) to combat government censorship.**
 
 ---
 
