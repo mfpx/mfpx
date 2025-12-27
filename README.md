@@ -10,7 +10,7 @@
 ---
 
 ### Hi there 👋
-I'm David, a computer scientist with a passion for networking and an interest in all things tech!  
+I'm Tegan, a computer scientist with a passion for networking and an interest in all things tech!  
 I'm also an alum of Queen Mary University of London and Aberystwyth University.  
 
 ### Working on 🔭
